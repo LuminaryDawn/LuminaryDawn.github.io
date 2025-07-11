@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-07-11T06:31:36.607Z</updated>
+  <updated>2025-07-11T06:32:32.560Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="http://example.com/2025/07/11/%E5%AE%89%E5%8D%93%E9%80%86%E5%90%91%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/"/>
     <id>http://example.com/2025/07/11/%E5%AE%89%E5%8D%93%E9%80%86%E5%90%91%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/</id>
     <published>2025-07-11T06:03:51.000Z</published>
-    <updated>2025-07-11T06:31:36.607Z</updated>
+    <updated>2025-07-11T06:32:32.560Z</updated>
     
     
     
     
     
-    <category term="逆向 技术" scheme="http://example.com/tags/%E9%80%86%E5%90%91-%E6%8A%80%E6%9C%AF/"/>
+    <category term="逆向" scheme="http://example.com/tags/%E9%80%86%E5%90%91/"/>
     
   </entry>
   
