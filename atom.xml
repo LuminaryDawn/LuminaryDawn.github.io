@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-07-11T06:34:43.446Z</updated>
+  <updated>2025-07-13T07:14:01.388Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,8 +21,15 @@
     <link href="http://example.com/2025/07/11/%E5%AE%89%E5%8D%93%E9%80%86%E5%90%91%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/"/>
     <id>http://example.com/2025/07/11/%E5%AE%89%E5%8D%93%E9%80%86%E5%90%91%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/</id>
     <published>2025-07-11T06:03:51.000Z</published>
-    <updated>2025-07-11T06:34:43.446Z</updated>
+    <updated>2025-07-13T07:14:01.388Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="cmd与环境变量"><a href="#cmd与环境变量" class="headerlink" title="cmd与环境变量"></a>cmd与环境变量</h1><h2 id="1-cmd的打开方式"><a href="#1-cmd的打开方式" class="headerlink" title="1. cmd的打开方式"></a>1. cmd的打开方式</h2><p>开始 -&gt; 右键 -&gt;运行 -&gt; cmd</p><p>指定目录快捷打开cmd； 路径栏输入cmd</p><h2 id="2-cmd基本操作"><a href="#2-cmd基本操作" class="headerlink" title="2. cmd基本操作"></a>2. cmd基本操作</h2><p><strong>dir：</strong></p><p>​显示当前路径下的所有文件</p><p><strong>cls：</strong></p><p>​清屏</p><p><strong>cd&#x2F;d：</strong></p><p>​用于切换不同盘之间的文件</p><p><strong>cd：</strong></p><p>​change dirction 改变当前位置</p><p><strong>cd . .</strong></p><p>​回到上级目录</p><p>cmd中运行文件 ，上下键选择之前输入过的命令，tab补全，右键复制&#x2F;粘贴</p><h2 id="3-相对路径和绝对路径"><a href="#3-相对路径和绝对路径" class="headerlink" title="3.相对路径和绝对路径"></a>3.相对路径和绝对路径</h2><p>路径名从C盘，D盘开始到你想要去的位置是绝对路径，而从当前位置到你想去的位置是相对路径</p><h2 id="4-环境变量"><a href="#4-环境变量" class="headerlink" title="4. 环境变量"></a>4. 环境变量</h2><p>系统变量&#x2F;用户变量</p><p>环境变量的作用 ：</p><p>通过加入环境变量可以让你在不同的位置来访问文件</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;cmd与环境变量&quot;&gt;&lt;a href=&quot;#cmd与环境变量&quot; class=&quot;headerlink&quot; title=&quot;cmd与环境变量&quot;&gt;&lt;/a&gt;cmd与环境变量&lt;/h1&gt;&lt;h2 id=&quot;1-cmd的打开方式&quot;&gt;&lt;a href=&quot;#1-cmd的打开方式&quot; class=&quot;</summary>
+      
     
     
     
