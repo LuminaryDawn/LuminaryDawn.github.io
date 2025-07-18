@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-07-18T06:55:36.934Z</updated>
+  <updated>2025-07-18T07:10:48.320Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>TEa加密</title>
+    <title>TEA加密</title>
     <link href="http://example.com/2025/07/18/TEa%E5%8A%A0%E5%AF%86/"/>
     <id>http://example.com/2025/07/18/TEa%E5%8A%A0%E5%AF%86/</id>
     <published>2025-07-18T06:55:03.000Z</published>
-    <updated>2025-07-18T06:55:36.934Z</updated>
+    <updated>2025-07-18T07:10:48.320Z</updated>
     
+    <content type="html"><![CDATA[<p>tea算法是逆向中经常遇到的一种算法</p><h1 id="算法特征"><a href="#算法特征" class="headerlink" title="算法特征"></a>算法特征</h1><p>tea算法的主要特征表现在sum和delta变量，以及3行核心加密中出现的右移4左移5，两行各有3个小括号互相异或</p><p>delta的值一般为0x9E3779B9(-0x61C88647)，但题目中往往会改变它的值</p><img src="./../images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-07-18%20151032.png" style="zoom:75%;" />]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;tea算法是逆向中经常遇到的一种算法&lt;/p&gt;
+&lt;h1 id=&quot;算法特征&quot;&gt;&lt;a href=&quot;#算法特征&quot; class=&quot;headerlink&quot; title=&quot;算法特征&quot;&gt;&lt;/a&gt;算法特征&lt;/h1&gt;&lt;p&gt;tea算法的主要特征表现在sum和delta变量，以及3行核心加密中出现</summary>
+      
     
     
     
