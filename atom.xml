@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-07-18T09:00:02.262Z</updated>
+  <updated>2025-07-22T02:17:06.943Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>IDA使用技巧</title>
+    <link href="http://example.com/2025/07/22/IDA%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    <id>http://example.com/2025/07/22/IDA%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</id>
+    <published>2025-07-22T02:16:19.000Z</published>
+    <updated>2025-07-22T02:17:06.943Z</updated>
+    
+    
+    
+    
+    
+    <category term="IDA" scheme="http://example.com/tags/IDA/"/>
+    
+  </entry>
   
   <entry>
     <title>TEA加密</title>
