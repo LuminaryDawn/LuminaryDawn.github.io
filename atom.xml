@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-07-22T08:01:59.567Z</updated>
+  <updated>2025-07-22T08:04:16.225Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,15 +21,22 @@
     <link href="http://example.com/2025/07/22/RC4%E5%8A%A0%E5%AF%86/"/>
     <id>http://example.com/2025/07/22/RC4%E5%8A%A0%E5%AF%86/</id>
     <published>2025-07-22T08:01:30.000Z</published>
-    <updated>2025-07-22T08:01:59.567Z</updated>
+    <updated>2025-07-22T08:04:16.225Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="RC4加密简介"><a href="#RC4加密简介" class="headerlink" title="RC4加密简介"></a>RC4加密简介</h1><h1 id="RC4加密流程分析"><a href="#RC4加密流程分析" class="headerlink" title="RC4加密流程分析"></a>RC4加密流程分析</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;RC4加密简介&quot;&gt;&lt;a href=&quot;#RC4加密简介&quot; class=&quot;headerlink&quot; title=&quot;RC4加密简介&quot;&gt;&lt;/a&gt;RC4加密简介&lt;/h1&gt;&lt;h1 id=&quot;RC4加密流程分析&quot;&gt;&lt;a href=&quot;#RC4加密流程分析&quot; class=&quot;header</summary>
+      
     
     
     
     
     <category term="逆向" scheme="http://example.com/tags/%E9%80%86%E5%90%91/"/>
     
-    <category term="加密" scheme="http://example.com/tags/%E5%8A%A0%E5%AF%86/"/>
+    <category term="算法" scheme="http://example.com/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
