@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-07-22T02:17:06.943Z</updated>
+  <updated>2025-07-22T02:30:44.266Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,8 +21,17 @@
     <link href="http://example.com/2025/07/22/IDA%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
     <id>http://example.com/2025/07/22/IDA%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</id>
     <published>2025-07-22T02:16:19.000Z</published>
-    <updated>2025-07-22T02:17:06.943Z</updated>
+    <updated>2025-07-22T02:30:44.266Z</updated>
     
+    <content type="html"><![CDATA[<p>本文记录了在IDA使用时遇到的使用技巧</p><h1 id="F5召唤伪代码"><a href="#F5召唤伪代码" class="headerlink" title="F5召唤伪代码"></a>F5召唤伪代码</h1><p>ida最基础的操作之一</p><p>味大无许多盐</p><h1 id="R转换字符串"><a href="#R转换字符串" class="headerlink" title="R转换字符串"></a>R转换字符串</h1><p>在看伪代码时如果遇到长数字可以用R快捷键来转换成字符串</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本文记录了在IDA使用时遇到的使用技巧&lt;/p&gt;
+&lt;h1 id=&quot;F5召唤伪代码&quot;&gt;&lt;a href=&quot;#F5召唤伪代码&quot; class=&quot;headerlink&quot; title=&quot;F5召唤伪代码&quot;&gt;&lt;/a&gt;F5召唤伪代码&lt;/h1&gt;&lt;p&gt;ida最基础的操作之一&lt;/p&gt;
+&lt;p&gt;味大无许</summary>
+      
     
     
     
